@@ -1,0 +1,4 @@
+llama-index
+langchain
+gemini  # or other LLM provider
+streamlit
